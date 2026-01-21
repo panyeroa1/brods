@@ -1,0 +1,7 @@
+{
+  "name": "V1 Orbit Autotranslate",
+  "description": "A high-performance real-time speech transcription and translation suite. Transcribe your voice in one language and see translated subtitles instantly in another, powered by Gemini 3 Flash.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
